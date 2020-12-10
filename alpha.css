@@ -1,0 +1,9 @@
+body{
+	background-image: url("alphabets.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+img{
+	margin-left: 30%;
+	margin-top: 12%;
+}
